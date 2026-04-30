@@ -27,4 +27,5 @@ export function Header ( {current, max, onRestart} : Props ){
         </header>
     </div>
     )
+    
 }
